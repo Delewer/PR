@@ -1,12 +1,12 @@
 # PR
-📌 Descriere
+#📌 Descriere
 Acest depozit conține prima lucrare de laborator la disciplina PR. Proiectul reprezintă un chat în consolă scris în Python, format dintr-un server și un client.
 
-🚀 Funcționalitate
+#🚀 Funcționalitate
 Serverul acceptă conexiuni de la mai mulți clienți.
 Clienții pot trimite mesaje care sunt distribuite tuturor utilizatorilor conectați.
 Comunicarea se realizează prin socket-uri (TCP).
-🛠 Instalare și rulare
+#🛠 Instalare și rulare
 🔹 Cerințe
 Python 3.13
 Modulul socket (inclus în biblioteca standard)
@@ -18,9 +18,9 @@ cd PR
 python server.py
 🔹 Pornirea clientului
 python client.py
-📖 Utilizare
+#📖 Utilizare
 Porniți serverul (server.py).
 Deschideți mai mulți clienți (client.py).
 Introduceți un mesaj în consola clientului – acesta va fi transmis tuturor utilizatorilor conectați.
-📜 Licență
+#📜 Licență
 Acest proiect a fost realizat în scopuri educaționale.
