@@ -1,4 +1,4 @@
-# PR (Protocoale și Rețele) – Laborator 1  
+# PR – Laborator 1  
 
 ## 📌 Descriere  
 Acest depozit conține prima lucrare de laborator la disciplina **PR**. Proiectul reprezintă un **chat în consolă** scris în Python, format dintr-un server și un client.  
